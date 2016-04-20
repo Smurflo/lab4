@@ -1,8 +1,8 @@
+package edu.ucsd.cs110.temperature;
+
 /*
  * Created by smurflo on 4/20/16.
  */
-
-package edu.ucsd.cs110.temperature;
 
 import static org.junit.Assert.*;
 
